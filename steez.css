@@ -1,0 +1,68 @@
+body {
+  background: url(images/IMG_8526.jpg);
+  background-repeat: repeat;
+  background-size: 1920px, 1080px;
+  background-color: #FED3FE;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+  color: #CB66FF;
+  font-size: 25px;
+}
+
+a:hover {
+  color: #E79BF3;
+}
+
+ul {
+  padding: 5px, 5px, 5px, 5px;
+  list-style-type: none;
+}
+
+li {
+  padding: 5px;
+}
+
+div.centered {
+margin-left:auto;
+margin-right:auto;
+width:80%;
+}
+
+.title {
+  text-align: center;
+}
+
+.social {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto;
+  text-align: center;
+}
+
+.fab {
+  font-size: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+.video {
+  border-radius: 5px;
+  width: 650px;   /* This sets the width */
+  margin: 0 auto;
+  text-align: center;
+  background-color: #B7FEDD;
+}
+
+.music {
+  border-radius: 5px;
+  width: 650px;   /* This sets the width */
+  margin: 0 auto;
+  text-align: center;
+  background-color: #F2B7FE;
+}
